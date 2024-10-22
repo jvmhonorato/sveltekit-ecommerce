@@ -1,6 +1,5 @@
-# SvelteKit E-Commerce Site: Sediment Art
+# SvelteKit E-Commerce 
 
-This is a real world e-commerce site which uses Stripe for payments and Cloudinary for image hosting. It is built with SvelteKit and TypeScript, and is currently in production!
 
 
 
